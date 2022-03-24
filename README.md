@@ -18,7 +18,7 @@ Projeto orifinal em : https://github.com/alura-cursos/flutter-persistencia-inter
 
 É necessário a utilização de um emulador para celular devido a utilização do SQFliter (plugin para uso do SQLite com o flutter)
 
-- ### Via linha de comando
+### Via linha de comando
 - emulator -avd [nome_avd] (executa o emulador de Android para a versão informada)
 - flutter run (executa a aplicação, importante estar na pasta da aplicação para que o flutter execute a aplicação)
 
