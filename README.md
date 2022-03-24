@@ -5,6 +5,7 @@ Projeto de estudo em Flutter baseado nos estudos da formação Flutter Alura.
 Esse projeto cobre a utilização de SQLite com o Flutter.
 
 Documentação original em: https://github.com/alura-cursos/flutter-persistencia-interna
+
 Projeto orifinal em : https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-5
 
 ## Melhorias em relação a implementação original
